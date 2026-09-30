@@ -145,12 +145,12 @@ Answer:"""
 # ---------------------------------------------------------
 
 st.set_page_config(
-    page_title="FSS Rules RAG Assistant",
+    page_title="FSS Regulatory Intelligence Assistant",
     page_icon="📚",
     layout="wide",
 )
 
-st.title("📚 FSS Rules RAG Assistant")
+st.title("📚FSS Regulatory Intelligence Assistant")
 st.caption("Ask questions about the Food Safety and Standards Rules, 2011.")
 
 with st.sidebar:
