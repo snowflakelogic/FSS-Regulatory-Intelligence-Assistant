@@ -1,0 +1,17 @@
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+sentence-transformers
+python-dotenv
+pypdf
+pymupdf
+unstructured
+python-docx
+docx2txt
+pandas
+# Embeddings
+langchain-huggingface
+sentence-transformers
+langchain-experimental
